@@ -229,6 +229,7 @@ PAUSE
 GOTO start
 
 :bemsre
+REM nochmal überprüfen, evtl. auch weitere Dienste (Presence) hinzufügen!
 CLS
 ECHO %ass%
 ECHO ----------------------------------------------
