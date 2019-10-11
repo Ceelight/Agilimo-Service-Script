@@ -3,7 +3,7 @@ REM Agilimo Service Script
 REM V 0.9.8, 2019-10-02
 REM Author: Thorsten Zieleit
 REM
-REM Licensend under CC BY-SA 4.0 
+REM Licensend under CC BY-SA 4.0
 REM https://creativecommons.org/licenses/by-sa/4.0/
 REM Means: Keep this header and mark your changes. Thanks!
 REM ------------------------------------------------------
