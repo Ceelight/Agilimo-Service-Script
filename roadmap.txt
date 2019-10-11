@@ -1,0 +1,5 @@
+Roadmap / Ideen
+
+- UEM CSR-Erstellung
+- BEMS Zertifikate an v2.12 anpassen (bems.pfx, pem-Datei)
+- BEMS Service Foo testen (stoppt nicht?)
